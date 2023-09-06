@@ -9,12 +9,14 @@
     - 파랑
 ---
 [구글](https://google.com)
-*single asterisks*
-_single underscores_
-**double asterisks**
-__double underscores__
-~~cancelline~~
+*single asterisks*  
+_single underscores_  
+**double asterisks**  
+__double underscores__  
+~~cancelline~~  
+```
 print("hello Markdown")
+```
 * 줄바꿈을 하기 위해서는 문장 마지막에서 2칸 이상을 띄어쓰기해야 한다. 
 이렇게
 
